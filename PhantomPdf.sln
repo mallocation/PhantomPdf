@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Cont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomJsPdf", "PhantomJsPdf\PhantomJsPdf.csproj", "{1BD10BF2-FA25-4052-9B05-0F556EF0E89B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunMe", "RunMe\RunMe.csproj", "{EECBED51-8ED7-4D19-9102-9C08894D5FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1BD10BF2-FA25-4052-9B05-0F556EF0E89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD10BF2-FA25-4052-9B05-0F556EF0E89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD10BF2-FA25-4052-9B05-0F556EF0E89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECBED51-8ED7-4D19-9102-9C08894D5FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECBED51-8ED7-4D19-9102-9C08894D5FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECBED51-8ED7-4D19-9102-9C08894D5FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECBED51-8ED7-4D19-9102-9C08894D5FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

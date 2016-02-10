@@ -8,6 +8,6 @@ namespace Contracts
 {
     public interface IPdfProducer
     {
-        byte[] ConvertToPdf(string html);
+        Uri ConvertToPdf(string html);
     }
 }
